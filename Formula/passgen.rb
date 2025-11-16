@@ -2,7 +2,7 @@ class Passgen < Formula
   desc "Cryptographically secure password generator"
   homepage "https://github.com/iambugra/passgen"
   url "https://github.com/iambugra/passgen/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "660f9e732f869f4dfdc94da9ba91f2413cbd57e368408b2714d59eba8b3e41c4"
   license "MIT"
 
   depends_on "go" => :build
